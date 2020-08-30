@@ -18,7 +18,7 @@ function getUiConfig() {
           size: 'invisible',
           badge: 'bottomleft' 
         },
-	      defaultCountry: 'BN', 
+	      defaultCountry: 'BD', 
 	      defaultNationalNumber: '1234567890',
 	      loginHint: '+11234567890'
 	}
